@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn storybook:*)",
+      "Bash(yarn dev)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
